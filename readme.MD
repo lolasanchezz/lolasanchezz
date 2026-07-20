@@ -5,4 +5,4 @@ you: hi [terminal draw](https://github.com/lolasanchezz/terminal-draw)!
 # lola sanchez ![neko](https://raw.githubusercontent.com/crgimenes/neko/master/assets/awake.png)
 ---
 → currently working at Hack Club as the technical lead of the [Athena Initative](https://athena.hackclub.com). <br>
-→ [more here]("https://lolas.website")<br>
+→ [more here](https://lolas.website)<br>
